@@ -11,3 +11,5 @@ local 2nd change
 =======
  ANOTHER REMOTE
 >>>>>>> d9c7369d67c11955feafe077187516efe4da1a4b
+
+3rd remote
